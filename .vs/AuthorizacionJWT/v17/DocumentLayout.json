@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\constant\\employeecontant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\constant\\employeecontant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\constant\\usercontant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\constant\\usercontant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\constant\\productcontant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\constant\\productcontant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\constant\\countrycontan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\constant\\countrycontan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\models\\productmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\models\\productmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\models\\loginmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\models\\loginmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\models\\countrymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\models\\countrymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|c:\\users\\usuario\\onedrive\\escritorio\\authorizacionjwt\\authorizacionjwt\\models\\employeemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DFD237-C3D1-4362-9E67-D3541A402DC1}|AuthorizacionJWT\\AuthorizacionJWT.csproj|solutionrelative:authorizacionjwt\\models\\employeemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:59:58.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:59:03.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:57:36.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CountryModels.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Models\\CountryModels.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Models\\CountryModels.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Models\\CountryModels.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Models\\CountryModels.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:20:39.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeModels.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Models\\EmployeeModels.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Models\\EmployeeModels.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Models\\EmployeeModels.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Models\\EmployeeModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:20:01.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductModels.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Models\\ProductModels.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Models\\ProductModels.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Models\\ProductModels.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Models\\ProductModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:19:12.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountryContan.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Constant\\CountryContan.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Constant\\CountryContan.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Constant\\CountryContan.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Constant\\CountryContan.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:17:32.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeContant.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Constant\\EmployeeContant.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Constant\\EmployeeContant.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Constant\\EmployeeContant.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Constant\\EmployeeContant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:16:57.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductContant.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Constant\\ProductContant.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Constant\\ProductContant.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Constant\\ProductContant.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Constant\\ProductContant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:13:54.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Program.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Program.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:10:53.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\appsettings.json",
+              "RelativeToolTip": "AuthorizacionJWT\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T13:48:20.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserContant.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Constant\\UserContant.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Constant\\UserContant.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Constant\\UserContant.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Constant\\UserContant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:16:10.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:09:18.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginModels.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Models\\LoginModels.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Models\\LoginModels.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Models\\LoginModels.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Models\\LoginModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:07:12.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModels.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Models\\UserModels.cs",
+              "RelativeDocumentMoniker": "AuthorizacionJWT\\Models\\UserModels.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\AuthorizacionJWT\\AuthorizacionJWT\\Models\\UserModels.cs",
+              "RelativeToolTip": "AuthorizacionJWT\\Models\\UserModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:04:59.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PvKkuXJxg9kxeRDklXxGp47TBPHYZfbXpkpkfue6428=",
+  "Source": "AuthorizacionJWT",
+  "BasePath": "_content/AuthorizacionJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
